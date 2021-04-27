@@ -3,7 +3,7 @@
                        your project to your GitHub Account
    insert your name: Jaine E. Perotti
    insert your github user: jaine716
-   insert your project name in github:
+   insert your project name in github: https://github.com/jaine716/CSC319-Week-12-Assignment
    invite as a collaborator: mmail002
 
    once completed, you must upload it to GitHub
